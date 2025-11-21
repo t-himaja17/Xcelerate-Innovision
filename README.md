@@ -1,6 +1,6 @@
 # Xcelerate-Innovision – Vehicle Accident Detection and Notification System
 
-## 🔍 Project Overview
+##  Project Overview
 
 Our project is an **IoT-based Vehicle Accident Detection and Notification System**.  
 The goal is to **automatically detect accidents** and **immediately notify emergency contacts / authorities** with critical information such as:
@@ -12,9 +12,9 @@ The goal is to **automatically detect accidents** and **immediately notify emerg
 
 This helps reduce response time after an accident and can potentially save lives, especially on highways or in low-traffic areas where accidents may go unnoticed.
 
----
 
-## 🧠 Domains & Technologies
+
+##  Domains & Technologies
 
 - **Domain:** Internet of Things (IoT)
 - **Technologies / Frameworks:**
@@ -30,11 +30,11 @@ This helps reduce response time after an accident and can potentially save lives
 - **My Role in the Team:**  
   *Setting up of hardware components* – wiring sensors and modules, configuring the Arduino, ensuring reliable power and connections, and supporting hardware testing.
 
----
 
-## 📆 Project Progress – Checkpoints
 
-### ✅ Checkpoint 1 – Ideation & Setup
+##  Project Progress – Checkpoints
+
+###  Checkpoint 1 – Ideation & Setup
 
 **Primary Idea / Concept**
 
@@ -64,9 +64,9 @@ At this stage we:
   - **HTTP protocol** for sending data/alerts to cloud or bot backend
 - This checkpoint ended with our **idea, domain, and high-level tech stack confirmed.**
 
----
 
-### ✅ Checkpoint 2 – Planning & Design
+
+###  Checkpoint 2 – Planning & Design
 
 **Current Development Stage**
 
@@ -108,9 +108,9 @@ At this stage we:
   - Development tools (Arduino IDE, internet connectivity, etc.)
 - No critical blocker due to lack of tools at this stage.
 
----
 
-### ✅ Checkpoint 3 – Technical Challenges & Component Procurement
+
+###  Checkpoint 3 – Technical Challenges & Component Procurement
 
 **Technical Challenges**
 
@@ -149,9 +149,9 @@ In more detail:
 - Communication module and necessary wires, breadboard, power supply have been collected.
 - Work now shifts from planning → **hardware assembly and initial coding**.
 
----
 
-### ✅ Checkpoint 4 – Implementation, Integration & Testing
+
+###  Checkpoint 4 – Implementation, Integration & Testing
 
 **Feature Completion**
 
@@ -229,13 +229,7 @@ In more detail:
     - Rehearse demo flow so that everything fits in the hackathon time limit.
 - With a few more practice rounds and minor tweaks, we expect to be fully ready.
 
----
 
-## ✅ Summary
-
-Through each checkpoint we have progressed from:
-
-1. **Idea & domain selection** (Checkpoint 1)  
 2. **Architecture and design planning** (Checkpoint 2)  
 3. **Component selection and procurement with technical challenge analysis** (Checkpoint 3)  
 4. **Implementation of core features, integration, initial testing, and presentation preparation** (Checkpoint 4)
