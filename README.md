@@ -27,9 +27,6 @@ This helps reduce response time after an accident and can potentially save lives
     - GSM / Wi-Fi module for connectivity (as applicable)
   - Optional: Buzzer / LEDs / push button for manual SOS and status indication
 
-- **My Role in the Team:**  
-  *Setting up of hardware components* – wiring sensors and modules, configuring the Arduino, ensuring reliable power and connections, and supporting hardware testing.
-
 
 
 ##  Project Progress – Checkpoints
@@ -189,7 +186,7 @@ In more detail:
 > *We got a hardware prototype (and basic interface).*
 
 - For now:
-  - Hardware indicators like **LEDs / buzzer** indicate system status (armed, accident detected, alert sent).
+  - Hardware indicators like **buzzer** indicate system status (armed, accident detected, alert sent).
   - Telegram chat acts as a **simple user interface**:
     - User receives messages like *“Accident detected for Vehicle X at [location link]”*.
   - UI/UX will be further refined after core functionality is stable.
@@ -229,9 +226,17 @@ In more detail:
     - Rehearse demo flow so that everything fits in the hackathon time limit.
 - With a few more practice rounds and minor tweaks, we expect to be fully ready.
 
+###  Checkpoint 5– 
+- **Final testing in process, almost everything is ready**
+- Implemented almost all of the features mentioned in chekpoint 3 and 4.
+- Currently working on connecting the IP address to get access to data (local IP address).
+- All the hardware setup is done,software code for various modules is done.
+- feeding this code to the microcontroller (ESP32).
+
 
 2. **Architecture and design planning** (Checkpoint 2)  
 3. **Component selection and procurement with technical challenge analysis** (Checkpoint 3)  
 4. **Implementation of core features, integration, initial testing, and presentation preparation** (Checkpoint 4)
+5. **Final working prototype testing/demo is being conducted**(Checkpoint 5)
 
 This README section documents our journey and clearly shows the judges how **Xcelerate Innovision** has evolved from a concept into a working IoT accident detection and notification prototype.
